@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmedi
 - 👀 I’m interested in becoming a gainfully employed person.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently doing [this](https://do.omg.lol/now) 
 - 💞️ I’m looking to collaborate on at least a single open source project.
 - 📫 How to reach me: shout?
 
